@@ -44,3 +44,15 @@ personalMovieDB.movies[lastFilm2] = lastFilmReit2;
 
 console.log(numberOfFilms);
 console.log(personalMovieDB);
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
